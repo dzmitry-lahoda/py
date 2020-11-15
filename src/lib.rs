@@ -1,10 +1,10 @@
-//! # py
+//! # asd
 //! Contains helpers methods which ease coding competitive and algorithmic programming faster like it is possible in python
 
 /// reads line from stdin, trim empty end and start
 /// # Examples
 /// ```
-/// assert_eq!(py::input(),"");
+/// assert_eq!(asd::input(),"");
 /// ```
 /// #
 /// # Panics
